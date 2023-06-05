@@ -1,6 +1,6 @@
 import "./App.css";
 import Home from "./Home";
-import BottomNav from "./bottomNav";
+import BottomNav from "./BottomNav";
 import Product from "./Product";
 import Payment from "./payment";
 import { BrowserRouter,  Route,  Routes } from "react-router-dom";
