@@ -2,7 +2,7 @@ import "./App.css";
 import Home from "./Home";
 import BottomNav from "./BottomNav";
 import Product from "./Product";
-import Payment from "./payment";
+import Payment from "./Payment";
 import { BrowserRouter,  Route,  Routes } from "react-router-dom";
 import Process from "./Process";
 import Success from "./Success";
